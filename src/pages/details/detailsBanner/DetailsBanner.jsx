@@ -9,7 +9,7 @@ import Genres from "../../../components/genres/Genres";
 import CircleRating from "../../../components/circleRating/CircleRating";
 import Img from "../../../components/lazyLoadImage/img";
 import PosterFallback from "../../../assets/no-poster.png";
- import { PlayIcon } from "../Playbtn";
+ import { PlayIcon } from "../PlayBtn";
 import VideoPopup from "../../../components/videoPopup/VideoPopup";
 
 const DetailsBanner = ({ video, crew }) => {
